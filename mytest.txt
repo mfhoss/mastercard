@@ -1,0 +1,3 @@
+my desktop
+ git config --global user.email "Mfhoss@yahoo.com"
+ git config --global user.name "Mfhoss"
